@@ -1,5 +1,7 @@
 # Svelte Guide For React Developers
 
+✍️ https://joyofcode.xyz/svelte-for-react-developers
+
 Introduction to Svelte for React developers.
 
 ## Setup
